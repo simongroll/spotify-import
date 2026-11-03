@@ -1,0 +1,13 @@
+# Credentials
+.env
+.spotify_token.json
+
+# Personal data: listening history, search cache, import state, logs
+data/
+*.log
+
+# Python / OS
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
